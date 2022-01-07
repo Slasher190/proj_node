@@ -32,5 +32,3 @@ switch(command){
     default:
         console.log("Please 🙏 choose Right command ");     
 }
-
-
